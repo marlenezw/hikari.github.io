@@ -1,9 +1,5 @@
 ---
 layout: default
-title: About
+title: "About Us"
 permalink: /about/
 ---
-
-## About Hikari Inc
-
-This is a page about Hikari 
